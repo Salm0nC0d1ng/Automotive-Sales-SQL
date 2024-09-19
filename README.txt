@@ -1,3 +1,5 @@
+# The DROP TABLE was used in context of programiz.com for repeated testing of the query. It is not required to be pasted.
+
 DROP TABLE IF EXISTS customers;
 DROP TABLE IF EXISTS vehicles;
 DROP TABLE IF EXISTS salespersons;
